@@ -1,1 +1,1 @@
-<img src="https://github-readmeee-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" align="right"/>
+[![KCN's top languages](https://github-readmeee-stats.vercel.app/api/top-langs/?username=kcn-judu&theme=tokyonight&layout=compact)]
