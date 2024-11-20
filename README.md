@@ -1,1 +1,1 @@
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/KCN-judu)
+<img src="https://github-readmeee-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" align="right"/>
