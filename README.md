@@ -1,5 +1,5 @@
 # KCN-judu
-### A student of industrial design, interested in embedded devlopment and fuctional programming
+### A student of industrial design, interested in embedded devlopment and functional programming
 - Learning Haskell.
 - Use C++ and JS as common languages.
 
