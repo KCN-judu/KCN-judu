@@ -3,7 +3,7 @@
 - Learning Haskell.
 - Use C++ and JS as common languages.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
 
 
 
