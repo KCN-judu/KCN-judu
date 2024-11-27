@@ -1,12 +1,11 @@
 # KCN-judu
 ### A student of industrial design, interested in embedded devlopment and fuctional programming
 <div>
-<div>
 - Learning Haskell.
 - Use C++ and JS as common languages.
 </div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" align="right"/>
-</div>
+
 
 
 
