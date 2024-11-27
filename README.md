@@ -15,5 +15,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KCN-judu&show_icons=true&theme=gruvbox&count_private=true" height="150px" alt="logo">
 
 # Workspace Setup
-![N100](https://img.shields.io/badge/-N100-0071C5?style=plastic&logo=intel&logoColor=white)
-![NixOS](https://img.shields.io/badge/-NixOS_25.05-0078D6?style=fplastic&logo=NixOS&logoColor=white)
+![N100](https://img.shields.io/badge/-N100-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![NixOS](https://img.shields.io/badge/-NixOS_25.05-0078D6?style=for-the-badge&logo=NixOS&logoColor=white)
