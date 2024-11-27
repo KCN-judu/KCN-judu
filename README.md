@@ -16,4 +16,4 @@
 
 # Workspace Setup
 ![N100](https://img.shields.io/badge/Intel-N100-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS_25.05-0078D6?style=for-the-badge&logo=nixos&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS_25.05-0078D6?style=for-the-badge&logo=NixOS&logoColor=white)
