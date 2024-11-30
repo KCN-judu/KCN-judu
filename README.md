@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
 
 # Plans & Current working
-## Chrono (proj)
+## [Chrono (proj)](https://github.com/KCN-judu/Chrono)
 I couldn't find a timer application on Nix that met my needs, so I started developing an application called __*Chrono*__ based on __*Electron*__ and __*Node.js*__
 
 ![ETC](https://img.shields.io/badge/ETC-25.01-117122?style=for-the-badge)
