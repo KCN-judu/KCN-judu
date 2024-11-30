@@ -7,7 +7,9 @@
 
 # Plans & Current working
 ## Chrono (proj)
-- I can't find a timer app meets my need on Nix, so that I started to develop an app called __*Chrono*__ based on __*Electron*__ and __*Node.js*__
+
+- I couldn't find a timer application on Nix that met my needs, so I started developing an application called Chrono based on Electron and Node.js, so I started developing an application called __*Chrono*__ based on __*Electron*__ and __*Node.js*__
+
 
 
 # Stats
