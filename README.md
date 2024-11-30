@@ -5,10 +5,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
 
-
-
-
-
+# Plans & Current working
+## Chrono (proj)
+- I can't find a timer app meets my need on Nix, so that I started to develop an app called __*Chrono*__ based on __*Electron*__ and __*Node.js*__
 
 
 # Stats
