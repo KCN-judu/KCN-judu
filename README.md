@@ -10,7 +10,7 @@
 I couldn't find a timer application on Nix that met my needs, so I started developing an application called __*Chrono*__ based on __*Electron*__ and __*Node.js*__
 
 ![ETC](https://img.shields.io/badge/ETC-25.01-0071C5?style=for-the-badge)
-![STATE](https://img.shields.io/badge/STATE-ACTIVE-117122?style=for-the-badge)
+![STATE](https://img.shields.io/badge/STATE-ACTIVE-11FF22?style=for-the-badge)
 
 ## [Power Macro(proj)](https://github.com/KCN-judu/power-macro)
 Due to my unfamiliarity with the C++ addon for __*Node.js*__ and how to use it in __*Electron*__, this project was put on hold for several months.
