@@ -13,8 +13,10 @@ I couldn't find a timer application on Nix that met my needs, so I started devel
 ![STATE](https://img.shields.io/badge/STATE-ACTIVE-117122?style=for-the-badge)
 
 ## [Power Macro(proj)](https://github.com/KCN-judu/power-macro)
-Due to my unfamiliarity with the C++ addon for Nodejs and how to use it in Electron, this project was put on hold for several months.
-It will be. This project will be reactivated shortly after Chrono is completed
+Due to my unfamiliarity with the C++ addon for __*Node.js*__ and how to use it in __*Electron*__, this project was put on hold for several months.
+It will be. This project will be reactivated shortly after __*Chrono*__ is completed.
+![ETC](https://img.shields.io/badge/ETC-NaN-FF1121?style=for-the-badge)
+![STATE](https://img.shields.io/badge/STATE-INACTIVE-FF1121?style=for-the-badge)
 
 # Stats
 <img src="https://github-readme-stats.vercel.app/api?username=KCN-judu&show_icons=true&theme=gruvbox&count_private=true" height="150px" alt="logo">
