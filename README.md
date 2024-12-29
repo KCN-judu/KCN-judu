@@ -9,7 +9,7 @@
 ## [Chrono (proj)](https://github.com/KCN-judu/Chrono)
 I couldn't find a timer application on Nix that met my needs, so I started developing an application called __*Chrono*__ based on __*Electron*__ and __*Node.js*__
 
-![ETC](https://img.shields.io/badge/ETC-25.01-0071C5?style=for-the-badge)
+![ETC](https://img.shields.io/badge/ETC-25.02-0071C5?style=for-the-badge)
 ![STATE](https://img.shields.io/badge/STATE-ACTIVE-119F22?style=for-the-badge)
 
 ## [Power Macro(proj)](https://github.com/KCN-judu/power-macro)
