@@ -3,7 +3,7 @@
 - Learning Haskell, MoonBit and Electron.
 - Mainly use MoonBit, C++ and JS.
 
-<img src="https://raw.githubusercontent.com/KCN-judu/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200px">
+<img src="https://raw.githubusercontent.com/KCN-judu/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 
 # Plans & Current working
 ## [Chrono (proj)](https://github.com/KCN-judu/Chrono)
