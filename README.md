@@ -32,3 +32,23 @@ This is a calculus numerical solution library written using MoonBit, aiming to f
 # Workspace Setup
 ![N100](https://img.shields.io/badge/Intel-N100-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS_25.05-7EBAE4?style=for-the-badge&logo=NixOS&logoColor=5277C3)
+
+| 常量名称          | 表达式                        | 数值                           |
+|-------------------|-------------------------------|--------------------------------|
+| `math_e`          | \( e \)                       | 2.71828182845904523536028747135 |
+| `math_log_2_e`    | \( \log_2(e) \)               | 1.44269504088896340735992468100 |
+| `math_log_10_e`   | \( \log_{10}(e) \)            | 0.43429448190325182765112891892 |
+| `math_sqrt_2`     | \( \sqrt{2} \)                | 1.41421356237309504880168872421 |
+| `math_sqrt_1_2`   | \( \sqrt{\frac{1}{2}} \)      | 0.70710678118654752440084436210 |
+| `math_sqrt_3`     | \( \sqrt{3} \)                | 1.73205080756887729352744634151 |
+| `math_pi`         | \( \pi \)                     | 3.14159265358979323846264338328 |
+| `math_pi_2`       | \( \frac{\pi}{2} \)           | 1.57079632679489661923132169164 |
+| `math_pi_4`       | \( \frac{\pi}{4} \)           | 0.78539816339744830961566084582 |
+| `math_sqrt_pi`    | \( \sqrt{\pi} \)              | 1.77245385090551602729816748334 |
+| `math_2_sqrt_pi`  | \( \frac{2}{\sqrt{\pi}} \)    | 1.12837916709551257389615890312 |
+| `math_1_pi`       | \( \frac{1}{\pi} \)           | 0.31830988618379067153776752675 |
+| `math_2_pi`       | \( \frac{2}{\pi} \)           | 0.63661977236758134307553505349 |
+| `math_ln_10`      | \( \ln(10) \)                 | 2.30258509299404568401799145468 |
+| `math_ln_2`       | \( \ln(2) \)                  | 0.69314718055994530941723212146 |
+| `math_ln_pi`      | \( \ln(\pi) \)                | 1.14472988584940017414342735135 |
+| `math_euler`      | \( \gamma = \lim_{n \to \infty} \left( \sum_{k=1}^n \frac{1}{k} - \ln(n) \right) \) | 0.57721566490153286060651209008 |
