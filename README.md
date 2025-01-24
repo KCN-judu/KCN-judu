@@ -33,35 +33,3 @@ This is a calculus numerical solution library written using MoonBit, aiming to f
 ![N100](https://img.shields.io/badge/Intel-N100-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS_25.05-7EBAE4?style=for-the-badge&logo=NixOS&logoColor=5277C3)
 
-<table>
-  <thead>
-    <tr>
-      <th>常量名称</th>
-      <th>表达式</th>
-      <th>数值</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>math_e</code></td>
-      <td>\( e \)</td>
-      <td>2.71828182845904523536028747135</td>
-    </tr>
-    <tr>
-      <td><code>math_log_2_e</code></td>
-      <td>\( \log_2(e) \)</td>
-      <td>1.44269504088896340735992468100</td>
-    </tr>
-    <tr>
-      <td><code>math_log_10_e</code></td>
-      <td>\( \log_{10}(e) \)</td>
-      <td>0.43429448190325182765112891892</td>
-    </tr>
-    <tr>
-      <td><code>math_euler</code></td>
-      <td>\( \gamma = \lim_{n \to \infty} \left( \sum_{k=1}^n \frac{1}{k} - \ln(n) \right) \)</td>
-      <td>0.57721566490153286060651209008</td>
-    </tr>
-  </tbody>
-</table>
-
