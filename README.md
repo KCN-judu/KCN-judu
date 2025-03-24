@@ -1,6 +1,7 @@
 # KCN-judu
-### A student of industrial design, interested in embedded devlopment and functional programming
-- Learning Haskell, MoonBit and Electron.
+### A student of industrial design.
+Interested in embedded devlopment, Abstract Algebra and functional programming
+- Learning Lean 4, Haskell and Electron.
 - Mainly use MoonBit, C++ and JS.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
