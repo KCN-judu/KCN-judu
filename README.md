@@ -1,7 +1,7 @@
 # KCN-judu
 ### A student of industrial design.
 Interested in embedded development, Abstract Algebra and functional programming
-- Learning Lean 4, Haskell.
+- Learning Lean 4 and Haskell.
 - Mainly use MoonBit
 - Able to use C++ and JS, able to read Haskell.
 
