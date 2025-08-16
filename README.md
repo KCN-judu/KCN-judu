@@ -4,9 +4,9 @@
 - B.Eng. in Industrial Design
 
 ## Inerests
-- embedded development
 - abstract algebra
 - functional programming
+- embedded development
 
 ## Proficient & Learning PLs
 - Currently learning Haskell, Lean4 and Rust.
