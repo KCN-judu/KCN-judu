@@ -40,6 +40,10 @@
 <img src="svg/r_dot.svg"> bugs found 
 <img src="svg/p_dot.svg"> archived
 
+## Reading List
+
+Reading list here | [link](reading_list.md)
+
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=KCN-judu&show_icons=true&theme=gruvbox&count_private=true" height="150px" alt="logo">
