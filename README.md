@@ -15,16 +15,16 @@ Interested in embedded development, Abstract Algebra, and functional programming
 
 # Current Research / Project
 
-**Luna-Flow/luna-generic | [link](https://github.com/Luna-Flow/luna-generic)** <img src="https://github.com/KCN-judu/KCN-judu/tree/main/svg/g_dot.svg">
+**Luna-Flow/luna-generic | [link](https://github.com/Luna-Flow/luna-generic)** <img src="svg/g_dot.svg">
 - This is a library of general interfaces and abstractions for Luna-Flow Projects.
 
-**Luna-Flow/linear-algebra | [link](https://github.com/Luna-Flow/linear-algebra)** <img src="https://github.com/KCN-judu/KCN-judu/tree/main/svg/g_dot.svg">
+**Luna-Flow/linear-algebra | [link](https://github.com/Luna-Flow/linear-algebra)** <img src="svg/g_dot.svg">
 - This is a linear algebra library written using MoonBit.
 
-**Luna-Flow/luna-poly | [link](https://github.com/Luna-Flow/luna-poly)** <img src="https://github.com/KCN-judu/KCN-judu/tree/main/svg/g_dot.svg">
+**Luna-Flow/luna-poly | [link](https://github.com/Luna-Flow/luna-poly)** <img src="svg/g_dot.svg">
 - This is a polynomial library written using MoonBit.
 
-**Luna-Flow/luna-complex | [link](https://github.com/Luna-Flow/luna-complex)** <img src="https://github.com/KCN-judu/KCN-judu/tree/main/svg/g_dot.svg">
+**Luna-Flow/luna-complex | [link](https://github.com/Luna-Flow/luna-complex)** <img src="svg/g_dot.svg">
 - This is a complex number library written using MoonBit.
 
 # Stats
