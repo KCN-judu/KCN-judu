@@ -1,20 +1,23 @@
 # Introduce
 
 ## Education
+
 - B.Eng. in Industrial Design
 
 ## Inerests
+
 - abstract algebra
 - functional programming
 - embedded development
 - circuit design​
 
 ## Proficient & Learning PLs
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
+
 - Currently learning Haskell, Lean4 and Rust.
 - Mainly use MoonBit.
 - Able to use C/C++, TS/JS, and read Haskell code.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
 
 # Current Research / Project
 
