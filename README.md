@@ -9,7 +9,7 @@ Interested in embedded development, Abstract Algebra, and functional programming
 ## Proficient & Learning PLs
 - Currently learning Haskell, Lean4 and Rust.
 - Mainly use MoonBit.
-- Able to use C/C++, JS, and read Haskell code.
+- Able to use C/C++, TS/JS, and read Haskell code.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
 
