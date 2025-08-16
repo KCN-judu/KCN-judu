@@ -21,6 +21,7 @@
 **Book**
 
 - Category Theory Using Haskell - Shuichi Yukita
+- Type Theory and Formal Proof: An Introduction - Rob Nederpelt, Herman Geuvers
 
 ## To-Read
 
@@ -31,4 +32,4 @@
 **Book**
 
 - Algebraic Number Theory - J.S. Milne
-- A Term of Commutative Algebra - Allen ALTMAN & Steven KLEIMAN
+- A Term of Commutative Algebra - Allen ALTMAN, Steven KLEIMAN
