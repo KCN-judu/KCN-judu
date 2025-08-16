@@ -7,6 +7,7 @@
 - abstract algebra
 - functional programming
 - embedded development
+- circuit design​
 
 ## Proficient & Learning PLs
 - Currently learning Haskell, Lean4 and Rust.
