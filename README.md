@@ -5,7 +5,7 @@
 
 ### Intro
 Interested in embedded development, Abstract Algebra, and functional programming.
-- Learning Haskell, Lean4 and Rust.
+- Currently learning Haskell, Lean4 and Rust.
 - Mainly use MoonBit.
 - Able to use C/C++, JS, and read Haskell code.
 
