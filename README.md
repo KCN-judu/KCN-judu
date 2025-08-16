@@ -8,6 +8,7 @@
 
 - abstract algebra
 - functional programming
+- lambda calculus
 - embedded development
 - circuit design​
 
