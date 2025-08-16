@@ -1,14 +1,15 @@
 # KCN-judu
 ### A student of industrial design.
 Interested in embedded devlopment, Abstract Algebra and functional programming
-- Learning Lean 4, Haskell and Electron.
-- Mainly use MoonBit, C++ and JS.
+- Learning Lean 4, Haskell.
+- Mainly use MoonBit
+- Able to use C++ and JS, able to read Haskell.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
 
 # Plans & Current working
-## [calculus-numerical(lib)](https://github.com/moonbit-community/calculus-numerical)
-This is a calculus numerical solution library written using MoonBit, aiming to fill the gap in scientific computing applications in the MoonBit ecosystem.
+## [Luna-Flow/linear-algebra(lib)](https://github.com/Luna-Flow/linear-algebra)
+This is a linear algebra library written using MoonBit, aiming to fill the gap in scientific computing applications in the MoonBit ecosystem.
 
 ![ETC](https://img.shields.io/badge/ETC-LongTerm-0071C5?style=for-the-badge)
 ![STATE](https://img.shields.io/badge/STATE-ACTIVE-119F22?style=for-the-badge)
