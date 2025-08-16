@@ -4,10 +4,10 @@
 - B.Eng. in Industrial Design
 
 ### Intro
-Interested in embedded development, Abstract Algebra and functional programming
+Interested in embedded development, Abstract Algebra, and functional programming.
 - Learning Haskell, Lean4 and Rust.
-- Mainly use MoonBit
-- Able to use C/C++ and JS, able to read Haskell code.
+- Mainly use MoonBit.
+- Able to use C/C++, JS, and read Haskell code.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
 
