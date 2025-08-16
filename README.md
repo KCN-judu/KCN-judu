@@ -19,7 +19,7 @@
 - Mainly use MoonBit.
 - Able to use C/C++, TS/JS, and read Haskell code.
 
-# Current Research / Project
+## Current Research / Project
 
 **Luna-Flow/luna-generic | [link](https://github.com/Luna-Flow/luna-generic)** <img src="svg/g_dot.svg">
 - This is a library of general interfaces and abstractions for Luna-Flow Projects.
@@ -40,6 +40,7 @@
 <img src="svg/r_dot.svg"> bugs found 
 <img src="svg/p_dot.svg"> archived
 
-# Stats
+## Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=KCN-judu&show_icons=true&theme=gruvbox&count_private=true" height="150px" alt="logo">
 
