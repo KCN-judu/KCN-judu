@@ -5,7 +5,7 @@
 **Article**
 
 - A Tutorial Introduction to the Lambda Calculus - Raul Rojas | [link](https://arxiv.org/pdf/1503.09060)
-
+- egg: Fast and extensible equality saturation - Max Willsey, etc. | [link](https://dl.acm.org/doi/10.1145/3434304)
 ---
 
 **Book**
