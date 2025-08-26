@@ -1,4 +1,4 @@
-# Reading List (record from 2025.08)
+# Reading List (recording from 2025.08)
 
 ## Completed
 
