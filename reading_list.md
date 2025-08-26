@@ -15,7 +15,7 @@
 **Article**
 
 - Typed Design Patterns for the Functional Era - Will Crichton
-
+- babble: Learning Better Abstractions with E-Graphs and Anti-unification - David Cao, etc. | [link](https://dl.acm.org/doi/10.1145/3571207)
 ---
 
 **Book**
@@ -26,6 +26,7 @@
 ## To-Read
 
 **Article**
+- Slotted E-Graphs: First-Class Support for (Bound) Variables in E-Graphs - Rudi Schneider, etc. | [link](https://dl.acm.org/doi/10.1145/3729326)
 
 ---
 
