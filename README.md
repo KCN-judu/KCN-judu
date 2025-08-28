@@ -22,6 +22,9 @@
 
 ## Current Research / Project
 
+**Use Rust to write a compiler** | <img src="svg/g_dot.svg">
+- Progress: writing a lexer
+
 **Luna-Flow/luna-generic | [link](https://github.com/Luna-Flow/luna-generic)** <img src="svg/g_dot.svg">
 - This is a library of general interfaces and abstractions for Luna-Flow Projects.
 
