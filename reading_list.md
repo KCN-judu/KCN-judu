@@ -5,10 +5,10 @@
 **Article**
 
 - A Tutorial Introduction to the Lambda Calculus - Raul Rojas | [link](https://arxiv.org/pdf/1503.09060)
-- egg: Fast and extensible equality saturation - Max Willsey, etc. | [link](https://dl.acm.org/doi/10.1145/3434304)
-- babble: Learning Better Abstractions with E-Graphs and Anti-unification - David Cao, etc. | [link](https://dl.acm.org/doi/10.1145/3571207)
-- Slotted E-Graphs: First-Class Support for (Bound) Variables in E-Graphs - Rudi Schneider, etc. | [link](https://dl.acm.org/doi/10.1145/3729326)
-- Left-Linear Completion with AC Axioms - Johannes Niederhauser, etc. | [link](https://link.springer.com/chapter/10.1007/978-3-031-38499-8_23)
+- egg: Fast and extensible equality saturation - Max Willsey, et al. | [link](https://dl.acm.org/doi/10.1145/3434304)
+- babble: Learning Better Abstractions with E-Graphs and Anti-unification - David Cao, et al. | [link](https://dl.acm.org/doi/10.1145/3571207)
+- Slotted E-Graphs: First-Class Support for (Bound) Variables in E-Graphs - Rudi Schneider, et al. | [link](https://dl.acm.org/doi/10.1145/3729326)
+- Left-Linear Completion with AC Axioms - Johannes Niederhauser, et al. | [link](https://link.springer.com/chapter/10.1007/978-3-031-38499-8_23)
 - Algebraic Graphs with Class (functional pearl) - Andrey Mokhov | [link](https://www.cs.tufts.edu/comp/150FP/archive/andrey-mokhov/algebraic-graphs.pdf)
 
 ---
