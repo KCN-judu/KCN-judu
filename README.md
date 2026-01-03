@@ -15,7 +15,7 @@
 
 ## Proficient & Learning PLs
 
-<img src="github-readme-stats-one-delta-43.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
+<img src="https://github-readme-stats-one-delta-43.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
 
 - Currently learning Haskell, Lean4 and Rust.
 - Mainly use MoonBit.
