@@ -17,9 +17,9 @@
 
 <img src="https://github-readme-stats-one-delta-43.vercel.app/api/top-langs/?username=KCN-judu&theme=tokyonight&layout=compact" height="200px">
 
-- Currently learning Haskell, Lean4 and Rust.
+- Currently learning OCaml, Lean4(Formal Proof) and Rust.
 - Mainly use MoonBit.
-- Able to use C/C++, TS/JS, and read Haskell code.
+- Able to use C/C++, TS/JS, Haskell and Lean4.
 
 ## Current Research / Project
 
