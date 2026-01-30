@@ -4,7 +4,7 @@
 
 - B.Eng. in Industrial Design
 
-## Inerests
+## Interests
 
 - abstract algebra
 - functional programming
